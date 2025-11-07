@@ -1,0 +1,280 @@
+{
+  "Speakers": [
+    {
+      "name": "Barbie Brewer",
+      "title": "MSW / MDSO / Victim Advocate Manager",
+      "email": "BBrewer@mdso.com",
+      "agency": "MDSO"
+    },
+    {
+      "name": "Manuel (Manny) Figueroa",
+      "title": "",
+      "email": "manuel.figueroa@HomesteadPolice.com",
+      "agency": "Homestead Police Department"
+    },
+    {
+      "name": "Rabbi Chaplain Jonathan Fisch",
+      "title": "Coral Gables Police Chaplain",
+      "email": "jfisch@coralgables.com",
+      "agency": "Coral Gables Police"
+    },
+    {
+      "name": "Alvaro Zabaleta",
+      "title": "",
+      "email": "azabaleta@cityofsweetwater.fl.gov",
+      "agency": "Sweetwater Police"
+    },
+    {
+      "name": "Mr. Raymond Melcon",
+      "title": "",
+      "email": "raymond.melcon@jhsmiami.org",
+      "agency": "Ryder Trauma"
+    },
+    {
+      "name": "Mr. Arnold Palmer",
+      "title": "",
+      "email": "arnold.palmer@miamidade.gov",
+      "agency": "Medical Examiner’s Office"
+    },
+    {
+      "name": "Mr. Jorge Rivero",
+      "title": "Vior Funeral Director",
+      "email": "info@viorfuneralhome.com",
+      "agency": "Vior Funeral Home"
+    },
+    {
+      "name": "Commander Rudy Gonzalez Jr.",
+      "title": "",
+      "email": "Rgonzalez@Coralgables.com",
+      "agency": "Coral Gables Police"
+    },
+    {
+      "name": "Lt. Carbonell",
+      "title": "",
+      "email": "ncarbonell@Coralgables.com",
+      "agency": "Coral Gables Police"
+    },
+    {
+      "name": "Ofc. M De Rosa",
+      "title": "",
+      "email": "mderosa@Coralgables.com",
+      "agency": "Coral Gables Police"
+    }
+  ],
+  "Participants_Police": [
+    {
+      "name": "Manager Annette McCully",
+      "title": "MDSO Command",
+      "email": "amccully@mdso.com",
+      "agency": "MDSO"
+    },
+    {
+      "name": "Major Patrick Calvo",
+      "title": "Government Services Bureau (JMH under purview)",
+      "agency": "MDSO"
+    },
+    {
+      "name": "Sergeant Bridget Sanchez",
+      "title": "Staff Support Unit – family assistance",
+      "agency": "MDSO"
+    },
+    {
+      "name": "Deputy Dael Vargas",
+      "title": "Homicide Bureau (MDSO Honor Guard)",
+      "agency": "MDSO"
+    },
+    {
+      "name": "Lt. Oscar Amago",
+      "title": "",
+      "email": "oamago@balharbourfl.gov",
+      "agency": "Bal Harbour Police"
+    },
+    {
+      "name": "Sgt. Braxton Mcclams",
+      "title": "",
+      "agency": "Bal Harbour Police"
+    },
+    {
+      "name": "Ofc. John Sabatier",
+      "title": "",
+      "agency": "Bal Harbour Police"
+    },
+    {
+      "name": "Sgt. Victor Rodriguez",
+      "title": "",
+      "email": "Vrodriguez@westmiamipolice.org",
+      "agency": "West Miami Police Department"
+    },
+    {
+      "name": "NA Juan Diasgranados",
+      "title": "",
+      "email": "Juan.Diasgranados@miamidade.gov",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Roosevelt Reese IV",
+      "title": "",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Cheryl Garcia",
+      "title": "",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Vanessa Courtney",
+      "title": "",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Charvon Baker",
+      "title": "",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Solomon Gilliard",
+      "title": "",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Jorge Alvarez",
+      "title": "",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Alejandra Luna Williams",
+      "title": "",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Dwight Davis Jr.",
+      "title": "",
+      "agency": "Miami-Dade Corrections & Rehabilitation Department"
+    },
+    {
+      "name": "Sergeant Josue Mangual",
+      "title": "",
+      "email": "jmangual@pinecrest-fl.gov",
+      "agency": "Pinecrest Police"
+    },
+    {
+      "name": "Officer Robert Munoz",
+      "title": "",
+      "agency": "Pinecrest Police"
+    },
+    {
+      "name": "NA Mcsai Jean-Baptiste",
+      "title": "",
+      "email": "mjean-baptiste@northmiamipolice.com",
+      "agency": "North Miami Police"
+    },
+    {
+      "name": "Sergeant Miguel Pineda",
+      "title": "",
+      "agency": "North Miami Police"
+    },
+    {
+      "name": "Officer Erica Carter",
+      "title": "",
+      "agency": "North Miami Police"
+    },
+    {
+      "name": "Sergeant Luis Rivera",
+      "title": "",
+      "email": "LRivera@MEDLEYPD.COM",
+      "agency": "Medley Police"
+    },
+    {
+      "name": "Commander Yojans Martinez",
+      "title": "",
+      "email": "yojans.martinez@doralpd.com",
+      "agency": "Doral Police"
+    },
+    {
+      "name": "Sergeant Alejandro Lorente",
+      "title": "",
+      "email": "alorente@townofsurfsidefl.gov",
+      "agency": "Town of Surfside Police"
+    },
+    {
+      "name": "Lieutenant Hyok Chong",
+      "title": "",
+      "email": "HyokChong@miamibeachfl.gov",
+      "agency": "Miami Beach Police"
+    },
+    {
+      "name": "Executive Assistant to the Chief Kamilah A. Young",
+      "title": "MPA",
+      "email": "kamilah.young@mgpdfl.org",
+      "agency": "Miami Gardens Police"
+    },
+    {
+      "name": "Sergeant July L. Fernandez",
+      "title": "",
+      "email": "jfernand@hialeahfl.gov",
+      "agency": "Hialeah Police Department"
+    },
+    {
+      "name": "Sergeant Joey Canaves",
+      "title": "",
+      "email": "jcanaves@dadeschools.net",
+      "agency": "Miami Dade Schools Police"
+    },
+    {
+      "name": "Sergeant K. Vega",
+      "title": "",
+      "email": "42480@miami-police.org",
+      "agency": "Miami Police"
+    },
+    {
+      "name": "Sergeant Brian Nickerson",
+      "title": "",
+      "email": "bnickerson@mspd.us",
+      "agency": "Miami Springs Police"
+    },
+    {
+      "name": "Sergeant J Stephenson",
+      "title": "",
+      "email": "Jstephenson@homesteadpolice.com",
+      "agency": "Homestead Police"
+    }
+  ],
+  "Participants_Fire": [
+    {
+      "name": "Cesar Espinosa",
+      "title": "",
+      "email": "cespinosa@keybiscayne.fl.gov",
+      "agency": "Key Biscayne Fire Rescue"
+    },
+    {
+      "name": "Captain Anthony Jinete",
+      "title": "",
+      "email": "ajinete@coralgables.com",
+      "agency": "Coral Gables Fire"
+    },
+    {
+      "name": "Andres Espinoza",
+      "title": "",
+      "email":"aespinoza@coralgables.com",
+      "agency": "Coral Gables Fire"
+    },
+    {
+      "name": "Kristina Bolanos",
+      "title": "",
+      "email":"kbolanos@coralgables.com",
+      "agency": "Coral Gables Fire"
+    },
+    {
+      "name": "Captain Richard Pye",
+      "title": "",
+      "email": "rpye@pbgfl.gov",
+      "agency": "Palm Beach Gardens Fire"
+    },
+    {
+      "name": "Captain Joshua Wagner",
+      "title": "",
+      "email": "JWagner@coconutcreek.net",
+      "agency": "Coconut Creek Fire"
+    }
+  ]
+}
